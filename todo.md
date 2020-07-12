@@ -1,0 +1,1 @@
+start building a text table by checking the save file data.
